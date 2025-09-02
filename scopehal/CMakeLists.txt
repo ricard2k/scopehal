@@ -188,6 +188,7 @@ set(SCOPEHAL_SOURCES
 	HP662xAPowerSupply.cpp
 	RigolDP8xxPowerSupply.cpp
 	RohdeSchwarzOscilloscope.cpp
+	RSRTC1002Oscilloscope.cpp
 	RSRTO6Oscilloscope.cpp
 	RohdeSchwarzHMC8012Multimeter.cpp
 	RohdeSchwarzHMC804xPowerSupply.cpp
